@@ -12,4 +12,8 @@ Publique e altere o trabalho on-line.
 Atualize as alterações online para o campo remoto. 
 Crie um arquivo README.md no repositório remoto.
 
+
 lembrei do comando git commit
+
+Lembrei do comando : git status
+
