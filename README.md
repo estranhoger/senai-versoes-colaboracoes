@@ -11,3 +11,5 @@ Faça seu cadastro no GitHub: https://github.com
 Publique e altere o trabalho on-line.
 Atualize as alterações online para o campo remoto. 
 Crie um arquivo README.md no repositório remoto.
+
+Lembrei do comando : git status
